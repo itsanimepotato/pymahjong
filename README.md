@@ -59,7 +59,10 @@ Chow – a sequence of 3 in the same suit
 
 ## How to Code it
 
-### Sites
-- login/register pages
+### Pages
+- login/register page
 - homepage
--
+- create game page
+- find games page
+- game page
+- leaderboard page?
