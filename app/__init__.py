@@ -71,7 +71,8 @@ def home():
 
 @app.route("/game/<int:game_id>/<int:player_id>")
 def game(game_id, player_id):
-    return render_template("game.html")
+    id_num = 0
+    return render_template("game.html", id_num=id_num)
 
 
 
